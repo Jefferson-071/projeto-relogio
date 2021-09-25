@@ -1,3 +1,5 @@
+let teste = 0;
+
 function rdigital() {
     let d = new Date();
 
