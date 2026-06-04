@@ -1,4 +1,3 @@
-HEAD
-testando o git(alterado e atualizado)
+# Relógio Analógico
 
-
+Um projeto para fins de aprendizagem utilizando HTML, CSS e JAVASCRIPT.
